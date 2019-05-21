@@ -1,4 +1,4 @@
-## DS3231 Precision RTC FeatherWing - RTC Add-on FeatherWing PCB
+## DS3231 Precision RTC FeatherWing - RTC Add-on PCB
 <a href="http://www.adafruit.com/products/3028"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
